@@ -6,12 +6,7 @@ I earned my Master of Science in Software Engineering from The University of Scr
 
 ---
 
-## Technical Skills
-- Programming Languages: Java, Python, C, JavaScript, VBA
-- Web Technologies: HTML, CSS, Thymeleaf, Spring Boot
-- Databases and Data Platforms: PostgreSQL, Oracle, MySQL, Hadoop
-- Development and Testing Tools: Git, GitHub, GitLab, Maven, Docker, JUnit, Mockito
-## Classes I've Taught
+## Courses Taught
 ### Introductory Courses
 - Introduction to Programming (with Lab) 
 - Object-Oriented Programming (with Lab)
@@ -26,6 +21,12 @@ I earned my Master of Science in Software Engineering from The University of Scr
 - Software Engineering 
 - Web Applications and Development 
 - Independent Study
+
+## Technical Skills
+- Programming Languages: Java, Python, C, JavaScript, VBA
+- Web Technologies: HTML, CSS, Thymeleaf, Spring Boot
+- Databases and Data Platforms: PostgreSQL, Oracle, MySQL, Hadoop
+- Development and Testing Tools: Git, GitHub, GitLab, Maven, Docker, JUnit, Mockito
 
 ---
 
